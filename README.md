@@ -32,3 +32,12 @@ Abrir el cuaderno en Google Colab y usar *Entorno de ejecución > Reiniciar sesi
 
 ## Declaración de uso de IA
 No usé IA generativa.
+
+##Supuestos y limitaciones
+Supuesto 1: Se asume que los precios en percha y en canales digitales de la competencia se actualizan de manera constante y reflejan con precisión la realidad del mercado semanal en Loja.
+Supuesto 2: Se asume que la canasta seleccionada de 10 productos de consumo diario es verdaderamente representativa de las decisiones de compra más comunes de los clientes.
+Limitacion: •	El análisis no contempla variaciones de precios intradiarias o promociones de último minuto, ni la posible falta de stock al momento de la toma de datos.
+
+¿Por qué importa para el decisor?
+Permite al Gerente Comercial de Galtor Supermercado mantener o ajustar los precios de la canasta y decidir qué promociones semanales lanzar para no perder clientes frente a la competencia. 
+
